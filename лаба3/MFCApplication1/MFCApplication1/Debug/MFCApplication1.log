@@ -1,0 +1,5 @@
+﻿  MFCApplication1Dlg.cpp
+e:\учеба\3 курс\visualc++\лаба3\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(121): warning C4305: '=': truncation from 'double' to 'float'
+e:\учеба\3 курс\visualc++\лаба3\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(124): warning C4305: '=': truncation from 'double' to 'float'
+  MFCApplication1.vcxproj -> E:\учеба\3 курс\visualC++\лаба3\MFCApplication1\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> E:\учеба\3 курс\visualC++\лаба3\MFCApplication1\Debug\MFCApplication1.pdb (Partial PDB)
